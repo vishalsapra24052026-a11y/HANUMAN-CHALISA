@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vishalsapra24052026-a11y.github.io/HANUMAN-CHALISA/sitemap.xml
